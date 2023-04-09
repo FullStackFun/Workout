@@ -1,4 +1,4 @@
-# Exercise Tracker
+# Workout - Exercise Tracker
 
 https://workout.madewithmike.repl.co/
 
